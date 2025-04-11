@@ -1,0 +1,186 @@
+<!DOCTYPE html>
+<html lang="th">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0, user-scalable=no">
+  <title>NewJeans - ดาวรุ่งแห่งวงการ K-pop</title>
+
+  <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@300;400;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+  <link rel="icon" href="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/NewJeans_logo.svg/1024px-NewJeans_logo.svg.png" type="image/x-icon">
+
+  <style>
+    body {
+      font-family: 'Nunito', sans-serif; 
+      background: linear-gradient(135deg, #f7c6ff, #ffccf9); 
+      color: #444;
+      margin: 0;
+      padding: 0;
+    }
+
+    .jumbotron {
+      background-color: #FF4081; 
+      color: white;
+      text-shadow: 2px 2px 5px black;
+      padding: 100px 25px;
+      border-bottom: 5px solid #FF4081;
+      text-align: center;
+      position: relative;
+      background-image: url('https://jangjihoo.com/wp-content/uploads/2023/07/001_Cover-Kpop-NewJeans-%EB%89%B4%EC%A7%84%EC%8A%A4.png');
+      background-size: cover;
+      background-position: center;
+    }
+
+    .jumbotron h1 {
+      font-size: 2.8em;
+      margin: 0;
+      background-color: rgba(255, 64, 129, 0.8); 
+      padding: 15px 25px;
+      border-radius: 15px;
+      display: inline-block;
+      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+    }
+
+    h3 {
+      color: #FF4081; 
+    }
+
+    .content-image {
+      width: 100%;
+      height: auto;
+      margin-bottom: 15px;
+      border-radius: 10px;
+    }
+
+    .col-sm-4, .col-sm-6 {
+      background-color: #fff;
+      border-radius: 10px;
+      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+      margin-bottom: 20px;
+      padding: 15px;
+    }
+
+    .highlight {
+      background-color: #fff8f0;
+      border-left: 5px solid #ff4081;
+      padding: 10px;
+      margin: 15px 0;
+    }
+
+    footer {
+      background-color: #222;
+      color: white;
+      padding: 10px 0;
+      text-align: center;
+      margin-top: 30px;
+    }
+
+    .centered-image {
+      display: block;
+      margin: 20px auto;
+      max-width: 80%;
+      border-radius: 10px;
+    }
+  </style>
+</head>
+<body>
+
+<div class="jumbotron">
+  <h1>NewJeans - <span style="font-weight:300;">ดาวรุ่งแห่งวงการ K-pop</span></h1>
+</div>
+
+<div class="container">
+  <div class="row">
+    <div class="col-sm-4">
+      <h3>เกี่ยวกับ NewJeans</h3>
+      <img src="https://blog.delivered.co.kr/wp-content/uploads/2024/03/Newjeans_main_banner-1.jpg" alt="สมาชิก NewJeans" class="content-image">
+      <p>NewJeans คือเกิร์ลกรุ๊ป K-pop ภายใต้สังกัด ADOR ซึ่งเป็นบริษัทลูกของ HYBE พวกเธอโดดเด่นด้วยคอนเซปต์สดใหม่และเพลงที่ติดหู กำลังเปลี่ยนแปลงวงการ K-pop อย่างสร้างสรรค์</p>
+      <div class="highlight">
+        <strong>วันเปิดตัว:</strong> 22 กรกฎาคม 2022<br>
+        <strong>ต้นสังกัด:</strong> ADOR (HYBE Labels)
+      </div>
+    </div>
+    <div class="col-sm-4">
+      <h3>สมาชิก</h3>
+      <img src="https://f.ptcdn.info/116/084/000/sdcnvqbtk7oajuVfwlM9-o.png" alt="สมาชิก" class="content-image">
+      <ul>
+        <p><strong>สมาชิกมีทั้งหมด 5 คน</strong></p>
+        <p> </p>
+        <li><strong>มินจี</strong>: หัวหน้าวง, นักร้อง</li>
+        <li><strong>ฮานี</strong>: นักร้องหลัก, นักเต้น</li>
+        <li><strong>แดเนียล</strong>: นักเต้นนำ, นักร้อง</li>
+        <li><strong>แฮริน</strong>: นักร้อง</li>
+        <li><strong>เฮอิน</strong>: น้องเล็ก, นักร้อง</li>
+        <p> </p>
+        <p> </p>
+      </ul>
+    </div>
+    <div class="col-sm-4">
+      <h3>เพลงฮิต</h3>
+      <img src="https://s.isanook.com/jo/0/ui/491/2455497/newjeans-press-credit-courtesy-h.jpg" alt="เพลงฮิต" class="content-image">
+      <p><strong>ผลงานเพลงยอดนิยมของพวกเธอ ได้แก่:</strong></p>
+      <ul>
+        <li><em>Attention</em> – เพลงเปิดตัวสุดสดใส</li>
+        
+        <li><em>Hype Boy</em> – โชว์พลังเสียงอันหลากหลาย</li>
+       
+        <li><em>Cookie</em> – จังหวะน่ารักชวนเต้น</li>
+        
+        <li><em>Ditto</em> – เพลงช้าแนวอบอุ่นกินใจ</li>
+        
+        <li><em>OMG</em> – สไตล์โดดเด่นที่แฟนทั่วโลกหลงรัก</li>
+      </ul>
+    </div>
+  </div>
+
+  <div class="row">
+    <div class="col-sm-6">
+      <h3>สไตล์และแนวดนตรี</h3>
+      <p>NewJeans มีเอกลักษณ์ในแนวเพลง Y2K pop, R&B และ lo-fi ที่ฟังง่ายและสบายหู พร้อมด้วยลุคแฟชั่นที่สดใหม่แตกต่างจากเกิร์ลกรุ๊ปรุ่นพี่</p>
+    </div>
+    <div class="col-sm-6">
+      <h3>แฟนด้อม</h3>
+      <p>ชื่อแฟนคลับของ NewJeans คือ “Bunnies” ที่เปรียบเสมือนครอบครัวคอยสนับสนุนพวกเธอทั่วโลก</p>
+    </div>
+  </div>
+
+  <div class="row">
+    <div class="col-sm-12">
+      <h3 style="color: #ff4081; text-align: center;">รางวัลและความสำเร็จ</h3>
+      <img src="https://i.pinimg.com/originals/a8/db/03/a8db03909de7314c8f2383db5ddd8496.gif" alt="รางวัล" class="content-image">
+      <p class="highlight">NewJeans คว้ารางวัลมากมาย เช่น ศิลปินหน้าใหม่ยอดเยี่ยม และชนะในรายการเพลงต่าง ๆ ภายในปีแรก พวกเธอกำลังสร้างอิทธิพลในระดับโลก ทั้งจาก Billboard, Melon Music Awards และ MAMA</p>
+      <p style="text-align: center;">ติดตามเส้นทางของพวกเธอในการนำพาพลังสดใหม่สู่วงการ K-pop!</p>
+    </div>
+  </div>
+
+  <div class="row">
+    <div class="col-sm-12">
+      <h3 style="color: #ff4081; text-align: center;">เสียงจากแฟนคลับ</h3>
+      <div class="highlight">
+        <p><em>"พวกเธอสดใสและมีเอกลักษณ์จริง ๆ รัก NewJeans สุดหัวใจ!"</em> – แฟนคลับชาวไทย</p>
+        <p><em>"เพลงของพวกเธอฟังแล้วติดหูมาก ฟังวนทั้งวัน!"</em> – Bunny จากเกาหลี</p>
+        <p><em>"การแสดงสดของพวกเธอเต็มไปด้วยพลัง ดูแล้วอดยิ้มไม่ได้เลย!"</em> – แฟนจากญี่ปุ่น</p>
+      </div>
+    </div>
+  </div>
+</div>
+
+<footer>
+  <p>&copy;67540086 รัชชานนท์ นวนหยวก</p>
+</footer>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+<script>
+  $(document).ready(function() {
+    $(".jumbotron h1").hide().fadeIn(2000);
+    $(".col-sm-4, .col-sm-6").hover(function() {
+      $(this).css("transform", "scale(1.03)");
+    }, function() {
+      $(this).css("transform", "scale(1)");
+    });
+  });
+</script>
+
+</body>
+</html>
